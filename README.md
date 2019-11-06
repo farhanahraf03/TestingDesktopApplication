@@ -7,4 +7,5 @@ Unit and Integration test = JUnit,
 Load Test = JMeter
 
 Use Eclipse IDE to import the project.
+Add External JAR in the Project using Build Path.
 
